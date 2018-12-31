@@ -1,0 +1,29 @@
+language: node_js
+node_js: stable
+
+branches:
+  only:
+  - source
+
+cache:
+  directories:
+  - node_modules
+  - themes
+
+install:
+- npm install hexo --save
+
+script:
+- hexo clean
+- hexo generate
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  committer-from-gh: true
+  local-dir: public
+  target-branch: gh-pages
+  on:
+    branch: source
