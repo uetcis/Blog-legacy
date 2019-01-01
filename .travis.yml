@@ -27,3 +27,10 @@ deploy:
   target-branch: gh-pages
   on:
     branch: source
+
+notifications:
+  email:
+    recipients:
+      - ywq44@iCloud.com
+    on_success: always
+    on_failure: always
