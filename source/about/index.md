@@ -29,6 +29,7 @@
 # Can you catch me?
 [GitHub](https://github.com/CaptainYukinoshitaHachiman)
 [Telegram](https://t.me/CaptainYukinoshitaHachiman)
-[Zhihu](https://t.me/CaptainYukinoshitaHachiman)
+[Zhihu](https://www.zhihu.com/people/CaptainHachiman)
 [Twitter](https://twitter.com/HachimanCaptain)
 [bilibili](http://space.bilibili.com/5766898?)
+[ProtonMail](mailto:CaptainYukinoshitaHachiman@ProtonMail.com)
