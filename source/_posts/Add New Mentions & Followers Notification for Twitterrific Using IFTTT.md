@@ -26,7 +26,7 @@ Then, for action, use Notification and choose "Send a rich notification from the
 
 ![Choose an Action](https://i.imgur.com/NsjNCxc.jpg)
 
-After that, customize the title, message and image URL depending on your own choice. For the link URL, paste `twitterrific://?url=\{{LinkToProfile\}}` for new followers, or `twitterrific://?url=\{{LinkToTweet\}}` for new mentions into that field.
+After that, customize the title, message and image URL depending on your own choice. For the link URL, paste twitterrific://?url={{LinkToProfile}} for new followers, or twitterrific://?url={{LinkToTweet}} for new mentions into that field.
 
 ![Set Link URL](https://i.imgur.com/xYyAcei.jpg)
 
