@@ -1,35 +1,36 @@
 # Who am I? / 我是谁？
 
-- Junior High Student in Wuxi Foreign Language School / 初中生，现就读于无锡外国语学校
+- Senior High Student in Wuxi Foreign Language School International Division / 高中生，现就读于无锡外国语学校国际高中部
 
 
 - ACGN Culture Enthusiast / ACGN 文化爱好者
 
 
-- Apple Developer (mainly for iOS) / 苹果开发者（主要是 iOS）
+- Apple Developer / 苹果开发者
 
 
 - Apple Fanboy / 果粉
 
 
-- Geek (At least I think so) / 极客（自认为）
+- WWDC19 Scholarship Recipient / WWDC19奖学金获得者
 
 
-- Wotagei Player (Noob) / Wota艺初心打师
+- Electronical Device Enthusiast / 电子产品爱好者
 
 
-- Aviation and Aerospace Enthusiast (Noob) / 航空航天爱好者（半吊子）
+- Interested in Aviation and Aerospace / 对航空航天感兴趣
 
 
-- INTx (probably) / INTx（大概）
+- [My Personality / 我的人格: INTJ-T (May 2019)](https://www.16personalities.com/profiles/1ad0e4f38300e)
 
 
-- [Political Scale](http://www.politiscales.net/en_US/results/?s0=71&s1=19&c1=24&c0=55&t1=45&t0=33&femi=48&b0=95&j1=26&j0=62&e1=26&e0=38&p1=31&p0=33&m1=29&m0=26&anar=100&prag=100) / [政治立场](http://www.politiscales.net/zh_CN/results/?s0=71&s1=19&c1=24&c0=55&t1=45&t0=33&femi=48&b0=95&j1=26&j0=62&e1=26&e0=38&p1=31&p0=33&m1=29&m0=26&anar=100&prag=100)
+- [Political Scale: Humanity · Equality · Justice (May 2019)](https://www.politiscales.net/en_US/results/?b0=98&t0=26&t1=48&j0=69&j1=14&s1=14&s0=76&c0=83&e0=36&e1=40&p0=19&p1=21&anar=100&m0=43&m1=31&femi=71&prag=100) / [政治立场：人权 · 平等 · 正义（2019年五月）](https://www.politiscales.net/zh_CN/results/?b0=98&t0=26&t1=48&j0=69&j1=14&s1=14&s0=76&c0=83&e0=36&e1=40&p0=19&p1=21&anar=100&m0=43&m1=31&femi=71&prag=100)
 
 # Can you catch me?
 [GitHub](https://github.com/CaptainYukinoshitaHachiman)
 [Telegram](https://t.me/CaptainYukinoshitaHachiman)
 [Zhihu](https://www.zhihu.com/people/CaptainHachiman)
 [Twitter](https://twitter.com/HachimanCaptain)
-[bilibili](http://space.bilibili.com/5766898?)
-[ProtonMail](mailto:CaptainYukinoshitaHachiman@ProtonMail.com)
+[bilibili](https://space.bilibili.com/5766898)
+[Steam](https://steamcommunity.com/id/Jacky_Yu)
+[Email](mailto:CaptainYukinoshitaHachiman@ProtonMail.com)
