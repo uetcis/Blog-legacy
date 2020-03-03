@@ -11,7 +11,9 @@ head:
         - YukinoshitaHachiman
         - 雪ノ下八幡
         - Cpatin YukinoshitaHachiman
+        - CpatinYukinoshitaHachiman
         - Captain 雪ノ下八幡
+        - Captain雪ノ下八幡
         - Swift
         - Apple
         - Programming
@@ -41,7 +43,7 @@ scheme: Paradox
 # UI & UX: slogan, color, effect
 uiux:
     slogan:
-     - "青春とは嘘であり、悪である。"
+     - "それでも、俺は本物が欲しい。"
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
@@ -71,7 +73,7 @@ thumbnail:
 #         type available value: A (animal), C (culture), N (nature), S (space), T (travel)
 background:
     purecolor: "#F5F5F5"
-    bgimg: "/img/oregairu.jpg"
+    bgimg: "/img/bg.png"
     bing:
         enable: false
         parameter:
