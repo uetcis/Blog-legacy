@@ -173,8 +173,8 @@ sidebar:
         About Me:
             link: /about
             icon: link
-        My Friends:
-            link: /friends
+        Some Talented People:
+            link: /thoseIknow
             icon: link
         License:
             link: "https://creativecommons.org/licenses/by-sa/4.0/"

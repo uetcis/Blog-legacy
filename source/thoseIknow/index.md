@@ -1,4 +1,4 @@
-# My Friends
+# Some Talented People I Have Known 
 
 ```
 // TODO: Decorate this page
