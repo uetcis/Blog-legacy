@@ -144,18 +144,18 @@ sns:
 # SNS Share Switch
 sns_share:
     twitter: true
-    facebook: true
-    googleplus: true
-    weibo: true
-    linkedin: true
-    qq: true
+    facebook: false
+    googleplus: false
+    weibo: false
+    linkedin: false
+    qq: false
     telegram: true
 
 # Sidebar Customize
 sidebar:
     dropdown:
         Email me:
-            link: "mailto:CaptainYukinoshitaHachiman@tcwq.tech"
+            link: "mailto:CaptainYukinoshitaHachiman@ProtonMail.com"
             icon: email
     homepage:
         use: true

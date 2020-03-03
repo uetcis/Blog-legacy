@@ -91,9 +91,9 @@ sitemap:
 baidusitemap:
     path: baidusitemap.xml
 
-live2d:
-    model: haruto
-    bottom: 80
+#live2d:
+#    model: haruto
+#    bottom: 80
 
 prism_plugin:
    mode: 'preprocess'    # realtime/preprocess
