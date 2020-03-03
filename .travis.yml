@@ -5,13 +5,9 @@ branches:
   only:
   - source
 
-cache:
-  directories:
-  - node_modules
-  - themes
-
 install:
 - npm install hexo --save
+- npm update
 
 script:
 - hexo clean
@@ -21,7 +17,7 @@ deploy:
   provider: pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
-  keep-history: true
+  keep-history: false
   committer-from-gh: true
   local-dir: public
   target-branch: gh-pages
@@ -31,6 +27,6 @@ deploy:
 notifications:
   email:
     recipients:
-      - ywq44@iCloud.com
+      - CaptainYukinoshitaHachiman@ProtonMail.com
     on_success: always
     on_failure: always
