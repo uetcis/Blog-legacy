@@ -21,7 +21,6 @@
     "hexo-generator-tag": "^0.2.0",
     "hexo-helper-live2d": "^2.1.5",
     "hexo-helper-qrcode": "^1.0.2",
-    "hexo-material": "^1.5.0",
     "hexo-prism-plugin": "^2.3.0",
     "hexo-renderer-ejs": "^0.3.0",
     "hexo-renderer-marked": "^0.3.0",
