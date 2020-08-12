@@ -1,1 +1,56 @@
+==================================================================
+https://keybase.io/captainhachiman
+--------------------------------------------------------------------
 
+I hereby claim:
+
+  * I am an admin of https://blog.tcwq.tech
+  * I am captainhachiman (https://keybase.io/captainhachiman) on keybase.
+  * I have a public key ASAwL-GXMablj1GHXecx36WRso9axanct4SbYrQct07c2go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207e0928525a7ddb8be499334c20bb7397bb6c5d9471359e6496865f7619722a1b0a",
+      "host": "keybase.io",
+      "kid": "0120302fe19731a6e58f51875de731dfa591b28f5ac5a9dcb7849b62b41cb74edcda0a",
+      "uid": "4aa63b78c2a0f22a8e148b2f96b4d219",
+      "username": "captainhachiman"
+    },
+    "merkle_root": {
+      "ctime": 1597230220,
+      "hash": "26d1cf9b0bf203b32b24869871f873a580a7d09931a038680858e6ecd43823c656dbf808f2c9876f51a6bf076d5a797a0ea5a439954a839f42ae6d895837c016",
+      "hash_meta": "aea5bf1ef4fff1eb36bc57eda0ecc417cf0a89a8739e4fbdf71ce230bfc67201",
+      "seqno": 17257802
+    },
+    "service": {
+      "entropy": "ebqZWfMba3mmEBVcLfLOFI4Q",
+      "hostname": "blog.tcwq.tech",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1597230248,
+  "expire_in": 504576000,
+  "prev": "8528da66173469066f06af0e57822b333f81ca9b73ad937eae4bdbeccd2e41ab",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMC/hlzGm5Y9Rh13nMd+lkbKPWsWp3LeEm2K0HLdO3NoKp3BheWxvYWTESpcCCcQghSjaZhc0aQZvBq8OV4IrMz+ByptzrZN+rkvb7M0uQavEIEkcbiR0SxciUF6Ge1U/Uhs8AoPFgZezeBbZYoWf0MtzAgHCo3NpZ8RAkqX+wTeet5MycGz496JvhS3HF5rkqkLPt5djxZ9/frDXzy+eopaq0FDXX8WcUnkq+SN9jotkbbuWm9dTDSQaBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINGH1Syspm2gLjaAv1HgHEiNx9L872XoLmoWtfGGB13fo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/captainhachiman
+
+==================================================================
