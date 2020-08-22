@@ -304,6 +304,37 @@
       </tags>
   </entry>
   <entry>
+    <title>每一个自由主义者都应当尝试将社交网络活动转移到 Fediverse 上的原因及其实践方法</title>
+    <url>/2020/08/23/Fediverse-a-Practice-of-Private-Law/</url>
+    <content><![CDATA[<h1 id="每一个自由主义者都应当尝试将社交网络活动转移到-Fediverse-上的原因及其实践方法"><a href="#每一个自由主义者都应当尝试将社交网络活动转移到-Fediverse-上的原因及其实践方法" class="headerlink" title="每一个自由主义者都应当尝试将社交网络活动转移到 Fediverse 上的原因及其实践方法"></a>每一个自由主义者都应当尝试将社交网络活动转移到 Fediverse 上的原因及其实践方法</h1><h2 id="什么是-Fediverse"><a href="#什么是-Fediverse" class="headerlink" title="什么是 Fediverse"></a>什么是 Fediverse</h2><p>Fediverse：“联邦宇宙”。名词。由 Federation （联邦）和 Universe（宇宙）两个词缝合得到，指代由不同网络平台的多个相互独立而又一定程度上联通的网络出版（包含社交网络、微型博客、博客或一般网站）服务器一起组成的一个网络。</p>
+<h3 id="平台"><a href="#平台" class="headerlink" title="平台"></a>平台</h3><p>正如先前提到的，在 Fediverse 中，不同的网络平台能够进行互通（根据每个平台支持的协议类型决定，不同平台所支持的协议不同。）。您可以在<a href="https://fediverse.party/" target="_blank" rel="noopener">这里</a>找到 Fediverse 所包括的平台。其中，用于类似于推特的微型博客的，有 <a href="https://joinmastodon.org/" target="_blank" rel="noopener">Mastodon</a>（又称长毛象），<a href="https://pleroma.social/" target="_blank" rel="noopener">Pleroma</a> 和 <a href="https://join.misskey.page/en/" target="_blank" rel="noopener">Misskey</a> 等。每个平台都有多个各自独立运营的服务器。</p>
+<h3 id="协议"><a href="#协议" class="headerlink" title="协议"></a>协议</h3><p>支持相同协议的平台之间可以互通。例如，因为 Mastodon、Pleroma 与 Misskey 都支持 ActivityHub 协议，这三个平台的用户可以各自看见其他平台的消息并关注其他平台的用户。</p>
+<h2 id="Fediverse-是私法自由社会的实践"><a href="#Fediverse-是私法自由社会的实践" class="headerlink" title="Fediverse 是私法自由社会的实践"></a>Fediverse 是私法自由社会的实践</h2><p>在 Fediverse，服务器的运营权没有被垄断：因为 Fediverse 中的平台的服务端大都为<a href="https://zh.wikipedia.org/wiki/自由及开放源代码软件" target="_blank" rel="noopener">开源自由软件</a>，每个有相应技术和财力的人都可以架设自己的服务器并实行各自的服务器规则（比如<a href="https://blog.bgme.me/posts/the-tos-of-bgme/" target="_blank" rel="noopener"> bgme.me 的规则</a>和<a href="https://freespeechextremist.com/about" target="_blank" rel="noopener"> Free Speech Extremist 的规则</a>），进而用户得以在有充分竞争的环境下自由选择社交网络服务提供商及规则。另外，部分平台的用户具有自由迁徙的能力，即用户可以轻易地将账户在不同服务提供商间迁移与导出自己的数据，如长毛象用户可以<a href="https://docs.joinmastodon.org/zh-cn/user/moving/" target="_blank" rel="noopener">在两个长毛象服务器之间进行账户迁移</a>，这进一步降低了用户选择更能满足其需求的服务的成本，从而促进竞争且使提供的服务（包括平台管理规则）更能满足用户需求。再加上 Fediverse 中各平台各服务器间可以进行消息互通，实际上我们可以看到 Fediverse 是私法自由社会的实践。关于 Fediverse 的更多优势及事实性信息，可参考<a href="https://docs.joinmastodon.org/zh-cn/" target="_blank" rel="noopener">什么是Mastodon？</a>、<a href="https://blog.bgme.me/posts/mastodon-and-liberty-a-response-to-daizhige/" target="_blank" rel="noopener">长毛象与自由：对殆知阁站长的回应</a>、<a href="https://docs.joinmastodon.org/zh-cn/user/moderating/" target="_blank" rel="noopener">处理不想要的内容</a>以及<a href="https://docs.joinmastodon.org/zh-cn/admin/moderation/" target="_blank" rel="noopener">运营操作</a>。在这四个页面中，后两个详细描述了长毛象中私法的执行方法（在其他 Fediverse 中的社交网络平台中应大同小异）。</p>
+<h2 id="如何解决相对的内容匮乏问题"><a href="#如何解决相对的内容匮乏问题" class="headerlink" title="如何解决相对的内容匮乏问题"></a>如何解决相对的内容匮乏问题</h2><blockquote>
+<p>凡有的，还要加给他，叫他有余。凡没有的，连他所有的，也要夺去。 ——《马太福音》13:12</p>
+</blockquote>
+<p>我们必须得有一个开始，但是您可以选择以一个低成本的方式逐步迁移到长毛象上来，如：</p>
+<ol>
+<li>您可以选择仍将其他社交平台作为日常主力，但同时可以注册一个长毛象账户并偶尔浏览。</li>
+<li>您可以选择使用 crossposter 来将推文自动发布到长毛象上（反之亦然）。我个人推荐使用 <a href="https://moa.party" target="_blank" rel="noopener">Moa</a>。通过这样做，您可以以较低的成本为 Fediverse 增添内容。</li>
+</ol>
+<h2 id="推荐实例"><a href="#推荐实例" class="headerlink" title="推荐实例"></a>推荐实例</h2><p>这里强行安利一下自己今日用土豆搭建的<a href="https://m.fal.moe/" target="_blank" rel="noopener">长毛象服务器</a>：除了名字和图案装饰很利伯塔利安外，<a href="https://m.fal.moe/about/more" target="_blank" rel="noopener">本服务器的规则</a>（部分受到<a href="https://freespeechextremist.com/about" target="_blank" rel="noopener">上文提及的这个规则</a>的启发）也（至少我自认为）很自由。</p>
+<h2 id="其他理由"><a href="#其他理由" class="headerlink" title="其他理由"></a>其他理由</h2><p>由于长毛象的每个服务器可以有其自定义表情，若您选择上文安利的，则可以使用这些表情：</p>
+<p><img src="https://dp76ddbrir1ia.cloudfront.net/1597952517253-wI4o3q.png" alt><img src="https://dp76ddbrir1ia.cloudfront.net/1597952523967-JtJwyr.png" alt></p>
+<p>您甚至可以让您的昵称看起来像这样：</p>
+<p><img src="https://dp76ddbrir1ia.cloudfront.net/1597952526759-nn2kaC.png" alt></p>
+]]></content>
+      <categories>
+        <category>Thoughts</category>
+      </categories>
+      <tags>
+        <tag>Libertarianism</tag>
+        <tag>Thoughts</tag>
+        <tag>Mastodon</tag>
+        <tag>Fediverse</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>论暴力**的危害性</title>
     <url>/2017/08/16/How-harmful-is-violence-MoHa/</url>
     <content><![CDATA[<blockquote>
@@ -767,22 +798,6 @@ Philips EyeCare connected desk lamp gen2.
       <tags>
         <tag>Anime</tag>
         <tag>この美術部には問題がある！</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每一个自由主义者都应当尝试将社交网络活动转移到 Fediverse 上的原因及其实践方法</title>
-    <url>/2020/08/21/mastodon-an-implementation-of-private-law-society/</url>
-    <content><![CDATA[<h1 id="每一个自由主义者都应当尝试将社交网络活动转移到-Fediverse-上的原因及其实践方法"><a href="#每一个自由主义者都应当尝试将社交网络活动转移到-Fediverse-上的原因及其实践方法" class="headerlink" title="每一个自由主义者都应当尝试将社交网络活动转移到 Fediverse 上的原因及其实践方法"></a>每一个自由主义者都应当尝试将社交网络活动转移到 Fediverse 上的原因及其实践方法</h1><blockquote>
-<p>勘误中</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Thoughts</category>
-      </categories>
-      <tags>
-        <tag>Libertarianism</tag>
-        <tag>Thoughts</tag>
-        <tag>Mastodon</tag>
       </tags>
   </entry>
   <entry>
