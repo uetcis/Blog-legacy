@@ -14,7 +14,7 @@
 
 [兔子鲜笙的博客](https://blog.tuzi.moe)
 
-[131 Netrvin](https://131.re)
+[131 Netrvin](https://blog.yuzu.im)
 
 [Karl Zeo](https://mikulove.com/)
 
