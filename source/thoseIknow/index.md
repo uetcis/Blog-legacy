@@ -22,4 +22,4 @@
 
 [QPomelo](https://qpomelo.app)
 
-[TURX](https://turx.gq/)
+[TURX](https://turx.asia)
